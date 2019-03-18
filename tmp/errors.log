@@ -230,3 +230,99 @@
 ================
 [2019-03-16 07:32:41] Текст ошибки: Access to undeclared static property: ishop\Router::$routes | Файл: C:\xampp\htdocs\ishop2.loc\vendor\ishop\core\Router.php | Строка: 31 
 ================
+[2019-03-18 06:08:38] Текст ошибки: Call to undefined function ishop\string() | Файл: C:\xampp\htdocs\ishop2.loc\vendor\ishop\core\Router.php | Строка: 59 
+================
+[2019-03-18 06:08:39] Текст ошибки: Call to undefined function ishop\string() | Файл: C:\xampp\htdocs\ishop2.loc\vendor\ishop\core\Router.php | Строка: 59 
+================
+[2019-03-18 06:08:39] Текст ошибки: Call to undefined function ishop\string() | Файл: C:\xampp\htdocs\ishop2.loc\vendor\ishop\core\Router.php | Строка: 59 
+================
+[2019-03-18 06:08:39] Текст ошибки: Call to undefined function ishop\string() | Файл: C:\xampp\htdocs\ishop2.loc\vendor\ishop\core\Router.php | Строка: 59 
+================
+[2019-03-18 06:29:19] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\ishop2.loc\vendor\ishop\core\Router.php | Строка: 46 
+================
+[2019-03-18 06:29:19] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\ishop2.loc\vendor\ishop\core\Router.php | Строка: 46 
+================
+[2019-03-18 06:31:18] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\ishop2.loc\vendor\ishop\core\Router.php | Строка: 46 
+================
+[2019-03-18 06:31:19] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\ishop2.loc\vendor\ishop\core\Router.php | Строка: 46 
+================
+[2019-03-18 06:31:19] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\ishop2.loc\vendor\ishop\core\Router.php | Строка: 46 
+================
+[2019-03-18 06:32:04] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\ishop2.loc\vendor\ishop\core\Router.php | Строка: 46 
+================
+[2019-03-18 07:30:28] Текст ошибки: Undefined class constant 'route' | Файл: C:\xampp\htdocs\ishop2.loc\vendor\ishop\core\Router.php | Строка: 45 
+================
+[2019-03-18 07:30:29] Текст ошибки: Undefined class constant 'route' | Файл: C:\xampp\htdocs\ishop2.loc\vendor\ishop\core\Router.php | Строка: 45 
+================
+[2019-03-18 07:30:29] Текст ошибки: Undefined class constant 'route' | Файл: C:\xampp\htdocs\ishop2.loc\vendor\ishop\core\Router.php | Строка: 45 
+================
+[2019-03-18 07:30:40] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\ishop2.loc\vendor\ishop\core\Router.php | Строка: 47 
+================
+[2019-03-18 07:30:43] Текст ошибки: Undefined class constant 'route' | Файл: C:\xampp\htdocs\ishop2.loc\vendor\ishop\core\Router.php | Строка: 45 
+================
+[2019-03-18 09:26:49] Текст ошибки: Контроллер app\controllers\AsdadasdController не найден | Файл: C:\xampp\htdocs\ishop2.loc\vendor\ishop\core\Router.php | Строка: 51 
+================
+[2019-03-18 09:27:02] Текст ошибки: Контроллер app\controllers\MainController не найден | Файл: C:\xampp\htdocs\ishop2.loc\vendor\ishop\core\Router.php | Строка: 51 
+================
+[2019-03-18 09:28:03] Текст ошибки: Контроллер app\controllers\MainController не найден | Файл: C:\xampp\htdocs\ishop2.loc\vendor\ishop\core\Router.php | Строка: 51 
+================
+[2019-03-18 09:28:03] Текст ошибки: Контроллер app\controllers\MainController не найден | Файл: C:\xampp\htdocs\ishop2.loc\vendor\ishop\core\Router.php | Строка: 51 
+================
+[2019-03-18 09:28:04] Текст ошибки: Контроллер app\controllers\MainController не найден | Файл: C:\xampp\htdocs\ishop2.loc\vendor\ishop\core\Router.php | Строка: 51 
+================
+[2019-03-18 09:28:04] Текст ошибки: Контроллер app\controllers\MainController не найден | Файл: C:\xampp\htdocs\ishop2.loc\vendor\ishop\core\Router.php | Строка: 51 
+================
+[2019-03-18 09:28:04] Текст ошибки: Контроллер app\controllers\MainController не найден | Файл: C:\xampp\htdocs\ishop2.loc\vendor\ishop\core\Router.php | Строка: 51 
+================
+[2019-03-18 10:49:18] Текст ошибки: Контроллер app\controllers\MainController не найден | Файл: C:\xampp\htdocs\ishop2.loc\vendor\ishop\core\Router.php | Строка: 51 
+================
+[2019-03-18 10:49:18] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\ishop2.loc\vendor\ishop\core\Router.php | Строка: 55 
+================
+[2019-03-18 11:01:41] Текст ошибки: Контроллер app\controllers\PageController не найден | Файл: C:\xampp\htdocs\ishop2.loc\vendor\ishop\core\Router.php | Строка: 59 
+================
+[2019-03-18 11:01:56] Текст ошибки: Контроллер app\controllers\MainController не найден | Файл: C:\xampp\htdocs\ishop2.loc\vendor\ishop\core\Router.php | Строка: 59 
+================
+[2019-03-18 11:02:43] Текст ошибки: Class 'Exeption' not found | Файл: C:\xampp\htdocs\ishop2.loc\vendor\ishop\core\Router.php | Строка: 55 
+================
+[2019-03-18 11:02:44] Текст ошибки: Class 'Exeption' not found | Файл: C:\xampp\htdocs\ishop2.loc\vendor\ishop\core\Router.php | Строка: 55 
+================
+[2019-03-18 11:02:44] Текст ошибки: Class 'Exeption' not found | Файл: C:\xampp\htdocs\ishop2.loc\vendor\ishop\core\Router.php | Строка: 55 
+================
+[2019-03-18 11:02:44] Текст ошибки: Class 'Exeption' not found | Файл: C:\xampp\htdocs\ishop2.loc\vendor\ishop\core\Router.php | Строка: 55 
+================
+[2019-03-18 11:02:45] Текст ошибки: Class 'Exeption' not found | Файл: C:\xampp\htdocs\ishop2.loc\vendor\ishop\core\Router.php | Строка: 55 
+================
+[2019-03-18 11:03:37] Текст ошибки: Class 'Exeption' not found | Файл: C:\xampp\htdocs\ishop2.loc\vendor\ishop\core\Router.php | Строка: 55 
+================
+[2019-03-18 11:03:38] Текст ошибки: Class 'Exeption' not found | Файл: C:\xampp\htdocs\ishop2.loc\vendor\ishop\core\Router.php | Строка: 55 
+================
+[2019-03-18 11:03:38] Текст ошибки: Class 'Exeption' not found | Файл: C:\xampp\htdocs\ishop2.loc\vendor\ishop\core\Router.php | Строка: 55 
+================
+[2019-03-18 11:03:38] Текст ошибки: Class 'Exeption' not found | Файл: C:\xampp\htdocs\ishop2.loc\vendor\ishop\core\Router.php | Строка: 55 
+================
+[2019-03-18 11:04:18] Текст ошибки: Class 'Exeption' not found | Файл: C:\xampp\htdocs\ishop2.loc\vendor\ishop\core\Router.php | Строка: 55 
+================
+[2019-03-18 11:04:19] Текст ошибки: Class 'Exeption' not found | Файл: C:\xampp\htdocs\ishop2.loc\vendor\ishop\core\Router.php | Строка: 55 
+================
+[2019-03-18 11:04:19] Текст ошибки: Class 'Exeption' not found | Файл: C:\xampp\htdocs\ishop2.loc\vendor\ishop\core\Router.php | Строка: 55 
+================
+[2019-03-18 11:04:19] Текст ошибки: Class 'Exeption' not found | Файл: C:\xampp\htdocs\ishop2.loc\vendor\ishop\core\Router.php | Строка: 55 
+================
+[2019-03-18 11:04:19] Текст ошибки: Class 'Exeption' not found | Файл: C:\xampp\htdocs\ishop2.loc\vendor\ishop\core\Router.php | Строка: 55 
+================
+[2019-03-18 11:04:25] Текст ошибки: Class 'Exeption' not found | Файл: C:\xampp\htdocs\ishop2.loc\vendor\ishop\core\Router.php | Строка: 55 
+================
+[2019-03-18 11:04:25] Текст ошибки: Class 'Exeption' not found | Файл: C:\xampp\htdocs\ishop2.loc\vendor\ishop\core\Router.php | Строка: 55 
+================
+[2019-03-18 11:04:25] Текст ошибки: Class 'Exeption' not found | Файл: C:\xampp\htdocs\ishop2.loc\vendor\ishop\core\Router.php | Строка: 55 
+================
+[2019-03-18 11:04:26] Текст ошибки: Class 'Exeption' not found | Файл: C:\xampp\htdocs\ishop2.loc\vendor\ishop\core\Router.php | Строка: 55 
+================
+[2019-03-18 11:04:26] Текст ошибки: Class 'Exeption' not found | Файл: C:\xampp\htdocs\ishop2.loc\vendor\ishop\core\Router.php | Строка: 55 
+================
+[2019-03-18 11:06:22] Текст ошибки: Контроллер app\controllers\PageController не найден | Файл: C:\xampp\htdocs\ishop2.loc\vendor\ishop\core\Router.php | Строка: 59 
+================
+[2019-03-18 11:08:36] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\ishop2.loc\vendor\ishop\core\Router.php | Строка: 63 
+================
+[2019-03-18 11:08:43] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\ishop2.loc\vendor\ishop\core\Router.php | Строка: 63 
+================
