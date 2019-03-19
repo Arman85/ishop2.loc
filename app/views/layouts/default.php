@@ -8,5 +8,6 @@
 </head>
 <body>
     <h1>Шаблон default</h1>
+    <?= $content ?>
 </body>
 </html>
