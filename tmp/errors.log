@@ -330,3 +330,157 @@
 ================
 [2019-03-19 11:30:05] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\ishop2.loc\vendor\ishop\core\Router.php | Строка: 64 
 ================
+[2019-03-27 05:55:49] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\ishop2.loc\vendor\ishop\core\Router.php | Строка: 64 
+================
+[2019-03-27 05:58:11] Текст ошибки: Страница не найдена. | Файл: C:\xampp\htdocs\ishop2.loc\vendor\ishop\core\Router.php | Строка: 64 
+================
+[2019-03-27 06:15:25] Текст ошибки: Call to undefined method app\controllers\PageController::getView() | Файл: C:\xampp\htdocs\ishop2.loc\vendor\ishop\core\Router.php | Строка: 57 
+================
+[2019-03-27 06:15:56] Текст ошибки: Call to undefined method app\controllers\PageController::getView() | Файл: C:\xampp\htdocs\ishop2.loc\vendor\ishop\core\Router.php | Строка: 57 
+================
+[2019-03-27 06:18:14] Текст ошибки: Class 'Exeption' not found | Файл: C:\xampp\htdocs\ishop2.loc\vendor\ishop\core\base\View.php | Строка: 59 
+================
+[2019-03-27 06:18:51] Текст ошибки: Class 'Exeption' not found | Файл: C:\xampp\htdocs\ishop2.loc\vendor\ishop\core\base\View.php | Строка: 59 
+================
+[2019-03-27 07:14:22] Текст ошибки: Class 'app\controllers\AppModel' not found | Файл: C:\xampp\htdocs\ishop2.loc\app\controllers\AppController.php | Строка: 21 
+================
+[2019-03-27 07:14:23] Текст ошибки: Class 'app\controllers\AppModel' not found | Файл: C:\xampp\htdocs\ishop2.loc\app\controllers\AppController.php | Строка: 21 
+================
+[2019-03-27 07:14:24] Текст ошибки: Class 'app\controllers\AppModel' not found | Файл: C:\xampp\htdocs\ishop2.loc\app\controllers\AppController.php | Строка: 21 
+================
+[2019-03-27 07:14:48] Текст ошибки: Class 'app\controllers\AppModel' not found | Файл: C:\xampp\htdocs\ishop2.loc\app\controllers\AppController.php | Строка: 21 
+================
+[2019-03-27 07:14:49] Текст ошибки: Class 'app\controllers\AppModel' not found | Файл: C:\xampp\htdocs\ishop2.loc\app\controllers\AppController.php | Строка: 21 
+================
+[2019-03-27 07:14:49] Текст ошибки: Class 'app\controllers\AppModel' not found | Файл: C:\xampp\htdocs\ishop2.loc\app\controllers\AppController.php | Строка: 21 
+================
+[2019-03-27 07:14:50] Текст ошибки: Class 'app\controllers\AppModel' not found | Файл: C:\xampp\htdocs\ishop2.loc\app\controllers\AppController.php | Строка: 21 
+================
+[2019-03-27 07:14:50] Текст ошибки: Class 'app\controllers\AppModel' not found | Файл: C:\xampp\htdocs\ishop2.loc\app\controllers\AppController.php | Строка: 21 
+================
+[2019-03-27 07:14:50] Текст ошибки: Class 'app\controllers\AppModel' not found | Файл: C:\xampp\htdocs\ishop2.loc\app\controllers\AppController.php | Строка: 21 
+================
+[2019-03-27 07:14:50] Текст ошибки: Class 'app\controllers\AppModel' not found | Файл: C:\xampp\htdocs\ishop2.loc\app\controllers\AppController.php | Строка: 21 
+================
+[2019-03-27 07:15:57] Текст ошибки: Class 'ishop\base\Db' not found | Файл: C:\xampp\htdocs\ishop2.loc\vendor\ishop\core\base\Model.php | Строка: 22 
+================
+[2019-03-27 07:15:58] Текст ошибки: Class 'ishop\base\Db' not found | Файл: C:\xampp\htdocs\ishop2.loc\vendor\ishop\core\base\Model.php | Строка: 22 
+================
+[2019-03-27 07:15:58] Текст ошибки: Class 'ishop\base\Db' not found | Файл: C:\xampp\htdocs\ishop2.loc\vendor\ishop\core\base\Model.php | Строка: 22 
+================
+[2019-03-27 07:17:52] Текст ошибки: Class 'ishop\core\Db' not found | Файл: C:\xampp\htdocs\ishop2.loc\vendor\ishop\core\base\Model.php | Строка: 23 
+================
+[2019-03-27 07:17:53] Текст ошибки: Class 'ishop\core\Db' not found | Файл: C:\xampp\htdocs\ishop2.loc\vendor\ishop\core\base\Model.php | Строка: 23 
+================
+[2019-03-27 07:17:53] Текст ошибки: Class 'ishop\core\Db' not found | Файл: C:\xampp\htdocs\ishop2.loc\vendor\ishop\core\base\Model.php | Строка: 23 
+================
+[2019-03-27 07:17:55] Текст ошибки: Class 'ishop\core\Db' not found | Файл: C:\xampp\htdocs\ishop2.loc\vendor\ishop\core\base\Model.php | Строка: 23 
+================
+[2019-03-27 07:18:15] Текст ошибки: Class 'core\Db' not found | Файл: C:\xampp\htdocs\ishop2.loc\vendor\ishop\core\base\Model.php | Строка: 23 
+================
+[2019-03-27 07:18:16] Текст ошибки: Class 'core\Db' not found | Файл: C:\xampp\htdocs\ishop2.loc\vendor\ishop\core\base\Model.php | Строка: 23 
+================
+[2019-03-27 07:18:27] Текст ошибки: Class 'vendor\ishop\core\Db' not found | Файл: C:\xampp\htdocs\ishop2.loc\vendor\ishop\core\base\Model.php | Строка: 23 
+================
+[2019-03-27 07:18:27] Текст ошибки: Class 'vendor\ishop\core\Db' not found | Файл: C:\xampp\htdocs\ishop2.loc\vendor\ishop\core\base\Model.php | Строка: 23 
+================
+[2019-03-27 07:18:28] Текст ошибки: Class 'vendor\ishop\core\Db' not found | Файл: C:\xampp\htdocs\ishop2.loc\vendor\ishop\core\base\Model.php | Строка: 23 
+================
+[2019-03-27 07:19:06] Текст ошибки: Class 'ishop\base\Db' not found | Файл: C:\xampp\htdocs\ishop2.loc\vendor\ishop\core\base\Model.php | Строка: 22 
+================
+[2019-03-27 07:19:07] Текст ошибки: Class 'ishop\base\Db' not found | Файл: C:\xampp\htdocs\ishop2.loc\vendor\ishop\core\base\Model.php | Строка: 22 
+================
+[2019-03-27 07:19:07] Текст ошибки: Class 'ishop\base\Db' not found | Файл: C:\xampp\htdocs\ishop2.loc\vendor\ishop\core\base\Model.php | Строка: 22 
+================
+[2019-03-27 07:19:09] Текст ошибки: Class 'ishop\base\Db' not found | Файл: C:\xampp\htdocs\ishop2.loc\vendor\ishop\core\base\Model.php | Строка: 22 
+================
+[2019-03-27 07:19:10] Текст ошибки: Class 'ishop\base\Db' not found | Файл: C:\xampp\htdocs\ishop2.loc\vendor\ishop\core\base\Model.php | Строка: 22 
+================
+[2019-03-27 07:19:10] Текст ошибки: Class 'ishop\base\Db' not found | Файл: C:\xampp\htdocs\ishop2.loc\vendor\ishop\core\base\Model.php | Строка: 22 
+================
+[2019-03-27 07:20:22] Текст ошибки: Class 'ishop\base\Db' not found | Файл: C:\xampp\htdocs\ishop2.loc\vendor\ishop\core\base\Model.php | Строка: 22 
+================
+[2019-03-27 07:21:42] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop2.loc\vendor\ishop\core\Db.php | Строка: 22 
+================
+[2019-03-27 07:21:43] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop2.loc\vendor\ishop\core\Db.php | Строка: 22 
+================
+[2019-03-27 07:21:43] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop2.loc\vendor\ishop\core\Db.php | Строка: 22 
+================
+[2019-03-27 07:21:44] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop2.loc\vendor\ishop\core\Db.php | Строка: 22 
+================
+[2019-03-27 07:21:44] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop2.loc\vendor\ishop\core\Db.php | Строка: 22 
+================
+[2019-03-27 07:24:41] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop2.loc\vendor\ishop\core\Db.php | Строка: 22 
+================
+[2019-03-27 07:24:42] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop2.loc\vendor\ishop\core\Db.php | Строка: 22 
+================
+[2019-03-27 07:24:42] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop2.loc\vendor\ishop\core\Db.php | Строка: 22 
+================
+[2019-03-27 07:24:42] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop2.loc\vendor\ishop\core\Db.php | Строка: 22 
+================
+[2019-03-27 07:24:42] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop2.loc\vendor\ishop\core\Db.php | Строка: 22 
+================
+[2019-03-27 07:24:43] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop2.loc\vendor\ishop\core\Db.php | Строка: 22 
+================
+[2019-03-27 07:24:43] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop2.loc\vendor\ishop\core\Db.php | Строка: 22 
+================
+[2019-03-27 07:27:45] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop2.loc\vendor\ishop\core\Db.php | Строка: 22 
+================
+[2019-03-27 07:27:46] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop2.loc\vendor\ishop\core\Db.php | Строка: 22 
+================
+[2019-03-27 07:27:46] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop2.loc\vendor\ishop\core\Db.php | Строка: 22 
+================
+[2019-03-27 07:27:46] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop2.loc\vendor\ishop\core\Db.php | Строка: 22 
+================
+[2019-03-27 07:27:46] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop2.loc\vendor\ishop\core\Db.php | Строка: 22 
+================
+[2019-03-27 07:27:46] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop2.loc\vendor\ishop\core\Db.php | Строка: 22 
+================
+[2019-03-27 07:35:03] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop2.loc\vendor\ishop\core\Db.php | Строка: 22 
+================
+[2019-03-27 07:36:47] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop2.loc\vendor\ishop\core\Db.php | Строка: 22 
+================
+[2019-03-27 07:36:48] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop2.loc\vendor\ishop\core\Db.php | Строка: 22 
+================
+[2019-03-27 07:36:48] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop2.loc\vendor\ishop\core\Db.php | Строка: 22 
+================
+[2019-03-27 07:36:48] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop2.loc\vendor\ishop\core\Db.php | Строка: 22 
+================
+[2019-03-27 07:36:48] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop2.loc\vendor\ishop\core\Db.php | Строка: 22 
+================
+[2019-03-27 07:38:46] Текст ошибки: Соединение устрановлено. | Файл: C:\xampp\htdocs\ishop2.loc\vendor\ishop\core\Db.php | Строка: 26 
+================
+[2019-03-27 07:38:46] Текст ошибки: Соединение устрановлено. | Файл: C:\xampp\htdocs\ishop2.loc\vendor\ishop\core\Db.php | Строка: 26 
+================
+[2019-03-27 07:38:47] Текст ошибки: Соединение устрановлено. | Файл: C:\xampp\htdocs\ishop2.loc\vendor\ishop\core\Db.php | Строка: 26 
+================
+[2019-03-27 07:38:47] Текст ошибки: Соединение устрановлено. | Файл: C:\xampp\htdocs\ishop2.loc\vendor\ishop\core\Db.php | Строка: 26 
+================
+[2019-03-27 07:38:47] Текст ошибки: Соединение устрановлено. | Файл: C:\xampp\htdocs\ishop2.loc\vendor\ishop\core\Db.php | Строка: 26 
+================
+[2019-03-27 07:38:48] Текст ошибки: Соединение устрановлено. | Файл: C:\xampp\htdocs\ishop2.loc\vendor\ishop\core\Db.php | Строка: 26 
+================
+[2019-03-27 07:38:49] Текст ошибки: Соединение устрановлено. | Файл: C:\xampp\htdocs\ishop2.loc\vendor\ishop\core\Db.php | Строка: 26 
+================
+[2019-03-27 07:38:50] Текст ошибки: Соединение устрановлено. | Файл: C:\xampp\htdocs\ishop2.loc\vendor\ishop\core\Db.php | Строка: 26 
+================
+[2019-03-27 07:38:50] Текст ошибки: Соединение устрановлено. | Файл: C:\xampp\htdocs\ishop2.loc\vendor\ishop\core\Db.php | Строка: 26 
+================
+[2019-03-27 07:39:01] Текст ошибки: Соединение устрановлено. | Файл: C:\xampp\htdocs\ishop2.loc\vendor\ishop\core\Db.php | Строка: 26 
+================
+[2019-03-27 07:39:01] Текст ошибки: Соединение устрановлено. | Файл: C:\xampp\htdocs\ishop2.loc\vendor\ishop\core\Db.php | Строка: 26 
+================
+[2019-03-27 10:08:50] Текст ошибки: Контроллер app\controllers\AsdasdController не найден | Файл: C:\xampp\htdocs\ishop2.loc\vendor\ishop\core\Router.php | Строка: 62 
+================
+[2019-03-27 10:12:50] Текст ошибки: Class 'app\controllers\R' not found | Файл: C:\xampp\htdocs\ishop2.loc\app\controllers\MainController.php | Строка: 20 
+================
+[2019-03-27 10:12:50] Текст ошибки: Class 'app\controllers\R' not found | Файл: C:\xampp\htdocs\ishop2.loc\app\controllers\MainController.php | Строка: 20 
+================
+[2019-03-27 10:12:51] Текст ошибки: Class 'app\controllers\R' not found | Файл: C:\xampp\htdocs\ishop2.loc\app\controllers\MainController.php | Строка: 20 
+================
+[2019-03-27 10:12:51] Текст ошибки: Class 'app\controllers\R' not found | Файл: C:\xampp\htdocs\ishop2.loc\app\controllers\MainController.php | Строка: 20 
+================
+[2019-03-27 10:12:51] Текст ошибки: Class 'app\controllers\R' not found | Файл: C:\xampp\htdocs\ishop2.loc\app\controllers\MainController.php | Строка: 20 
+================
+[2019-03-27 10:12:51] Текст ошибки: Class 'app\controllers\R' not found | Файл: C:\xampp\htdocs\ishop2.loc\app\controllers\MainController.php | Строка: 20 
+================
