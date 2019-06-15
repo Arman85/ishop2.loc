@@ -14,7 +14,8 @@ define("CORE", ROOT . '/vendor/ishop/core');
 define("LIBS", ROOT . '/vendor/ishop/core/libs');
 define("CACHE", ROOT . '/tmp/cache');
 define("CONF", ROOT . '/config');
-define("LAYOUT", 'default'); // в ней будет хранится шаблон нашего сайта по умолчанию.
+//define("LAYOUT", 'default'); // в ней будет хранится шаблон нашего сайта по умолчанию.
+define("LAYOUT", 'watches'); // в ней будет хранится шаблон нашего сайта по умолчанию.
 
 // Начало, вычисляем путь главной страницы.
 // http://ishop2.loc/public/index.php
